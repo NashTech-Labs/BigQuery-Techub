@@ -10,7 +10,7 @@ Follow these steps to start using the Rust BigQuery Template:
 1. **Clone the Repository**: Clone this repository to your local machine:
 
     ```bash
-    https://github.com/sheshnath-at-knoldus/BigQuery-TechHub.git
+    https://github.com/NashTech-Labs/BigQuery-Techub.git
     ```
 
 2. **Navigate to the Project Directory**: Move into the project directory:
